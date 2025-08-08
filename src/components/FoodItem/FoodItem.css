@@ -36,3 +36,14 @@
     font-weight: 500;
     margin: 10px 0px;
 }
+.food-item-counter{
+    position: relative;
+}
+.food-item-img-container .add{
+    width: 35px;
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    cursor: pointer;
+    border
+}
